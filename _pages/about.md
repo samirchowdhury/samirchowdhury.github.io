@@ -16,5 +16,9 @@ My current research interest is in topological and geometric data analysis, part
 
 You can reach me via email by writing "chowdhury.57" and then adding "@osu.edu".
 
+**New**: I'll be a coorganizer for the GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
+
+
+
 **New**: Katie Ritchey and I are organizing a graduate student lunch-and-learn seminar in 2018-2019. The aim is to create a friendly and welcoming environment for graduate students in topology, geometry, and their applications to give practice talks and also to meet other students and postdocs. Check out our webpage at <https://sites.google.com/view/osu-taggs/home> for more details!
 
