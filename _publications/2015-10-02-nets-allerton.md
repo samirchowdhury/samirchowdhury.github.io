@@ -2,7 +2,7 @@
 title: "Metric structures on networks and applications"
 collection: publications
 date: 2015-10-02
-venue: 'Allerton Conference on Communication, Control, and Computing '
+venue: 'Allerton Conference on Communication, Control, and Computing'
 excerpt: 'Joint with Facundo Mémoli.'
 paperurl: 'https://ieeexplore.ieee.org/document/7447182'
 ---
