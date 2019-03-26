@@ -1,8 +1,9 @@
 ---
 title: "Vietoris-Rips Complexes of Regular Polygons"
 collection: publications
-
-excerpt: 'Joint with Henry Adams, Adam Jaffe, and Bonginkosi Sibanda. Preprint on arXiv. 2018.'
+date: 2018-07-28
+venue: 'arXiv'
+excerpt: 'Joint with Henry Adams, Adam Jaffe, and Bonginkosi Sibanda. Preprint.'
 paperurl: 'https://arxiv.org/abs/1807.10971'
 ---
 
