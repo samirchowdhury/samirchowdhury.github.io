@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical representations of network data with optimal distortion bounds"
 collection: publications
-venue: 'Asilomar'
+venue: 'Asilomar Conference on Signals, Systems and Computers'
 date: 2016-11-29
 excerpt: 'Joint with Zane Smith and Facundo Mémoli.'
 
