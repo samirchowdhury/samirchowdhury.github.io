@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a sixth year PhD student in the Department of Mathematics at The Ohio State University. My advisor is Facundo Mémoli. On this site, I will periodically post information pertaining to my research and teaching.
+I am a sixth year PhD student in the Department of Mathematics at The Ohio State University. My advisor is Facundo Mémoli. 
 
 My current research interest is in topological and geometric data analysis, particularly in the setting of unsupervised learning.
 
