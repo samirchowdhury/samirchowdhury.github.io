@@ -328,7 +328,7 @@
   height: 60px;
 
   @include breakpoint($large) {
-    width: 100px;
+    width: 60px; /* used to be 100 */
     height: 100px;
   }
 }
