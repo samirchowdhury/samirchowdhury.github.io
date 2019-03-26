@@ -2,7 +2,7 @@
 title: "Distances between directed networks and applications"
 collection: publications
 date: 2016-05-31
-venue: 'ICASSP 2016'
+venue: 'ICASSP'
 excerpt: 'Joint with Facundo Mémoli.'
 paperurl: 'https://ieeexplore.ieee.org/document/7472913'
 ---

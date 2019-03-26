@@ -2,7 +2,7 @@
 title: "Persistent homology of directed networks"
 collection: publications
 date: 2016-11-30
-venue: 'Asilomar 2016'
+venue: 'Asilomar'
 excerpt: 'Joint with Facundo Mémoli'
 paperurl: 'https://ieeexplore.ieee.org/document/7868997'
 ---
