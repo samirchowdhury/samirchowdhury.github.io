@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a sixth year PhD student in the Department of Mathematics at The Ohio State University. My advisor is Facundo Mémoli. Prior to OSU, I completed my undergraduate degree at Tufts University (B.S. Engineering Science).
+I recently completed my PhD in the Department of Mathematics at The Ohio State University, under the supervision of Facundo Mémoli. Starting July 2019, I will be a postdoc at Stanford University. Prior to OSU, I completed my undergraduate degree at Tufts University (B.S. Engineering Science).
 
 My current research interest is in topological and geometric data analysis, particularly in the setting of unsupervised learning.
 
