@@ -20,9 +20,14 @@ My research is in applied topology and geometry, and in developing the foundatio
 
 You can reach me via email by writing to [samirc] at [stanford] dot [edu].
 
-**New**: I'll be a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
+[comment]: <> **New**: I'll be a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
 
 
 
-**Past**: Katie Ritchey and I are organizing a graduate student lunch-and-learn seminar in 2018-2019. The aim is to create a friendly and welcoming environment for graduate students in topology, geometry, and their applications to give practice talks and also to meet other students and postdocs. Check out our webpage at <https://sites.google.com/view/osu-taggs/home> for more details!
+**Past**: 
+
+- I was a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference was to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
+
+
+- Katie Ritchey and I co-organized a graduate student lunch-and-learn seminar in 2018-2019. The aim was to create a friendly and welcoming environment for graduate students in topology, geometry, and their applications to give practice talks and also to meet other students and postdocs. Check out our webpage at <https://sites.google.com/view/osu-taggs/home> for more details!
 
