@@ -22,7 +22,7 @@ You can reach me via email by writing to [samirc] at [stanford] dot [edu].
 
 [comment]: <> **New**: I'll be a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
 
-
+## Present:
 
 **Past**: 
 
