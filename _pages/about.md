@@ -12,7 +12,9 @@ redirect_from:
 I am a postdoctoral scholar at Stanford University, working with Manish Saggar at the Brain Dynamics Lab. 
 Recently I completed my PhD in the Department of Mathematics at The Ohio State University, under the supervision of Facundo Mémoli. 
 
-[comment]: <> Starting July 2019, I will be a postdoc at Stanford University. 
+<!-- 
+Starting July 2019, I will be a postdoc at Stanford University. 
+-->
 
 Prior to OSU, I completed my undergraduate degree at Tufts University (B.S. Engineering Science).
 
@@ -20,9 +22,15 @@ My research is in applied topology and geometry, and in developing the foundatio
 
 You can reach me via email by writing to [samirc] at [stanford] dot [edu].
 
-[comment]: <> **New**: I'll be a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
+<!--
+**New**: I'll be a coorganizer for GTDAML2019 (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning). The aim of this conference is to bring together graduate students interested in the preceding topics to OSU over the first weekend of June to discuss their work, present posters, and give research/expository talks. Please see <https://tgda.osu.edu/gtdaml2019/> for more details!
+-->
 
-## Present:
+### New:
+
+- Tom Needham (FSU) and I released a new paper titled "Gromov-Wasserstein Averaging in a Riemannian Framework". Here we show how ideas from optimal transport can be used to perform statistics and classical machine learning on the space of arbitrary, possibly asymmetric matrices. Arxiv link: https://arxiv.org/pdf/1910.04308.pdf
+
+- A new paper written with Thomas Gebhart (UMN), Steve Huntsman (BAE Systems), and Matvey Yutin (UCBerkeley) titled "Path homologies of deep feedforward networks" was accepted to ICMLA 2019. Here we produce some fundamental calculations about the Betti numbers of fully-connected, feedforward neural networks according to different directed homology theories. Arxiv link: https://arxiv.org/pdf/1910.07617.pdf
 
 **Past**: 
 
