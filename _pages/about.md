@@ -28,9 +28,9 @@ You can reach me via email by writing to [samirc] at [stanford] dot [edu].
 
 ### New:
 
-- Tom Needham (FSU) and I released a new paper titled "Gromov-Wasserstein Averaging in a Riemannian Framework". Here we show how ideas from optimal transport can be used to perform statistics and classical machine learning on the space of arbitrary, possibly asymmetric matrices. Arxiv link: https://arxiv.org/pdf/1910.04308.pdf
+- Tom Needham (FSU) and I released a new paper titled "Gromov-Wasserstein Averaging in a Riemannian Framework". Here we show how ideas from optimal transport can be used to perform statistics and classical machine learning on the space of arbitrary, possibly asymmetric matrices. Arxiv link: <https://arxiv.org/pdf/1910.04308.pdf>
 
-- A new paper written with Thomas Gebhart (UMN), Steve Huntsman (BAE Systems), and Matvey Yutin (UCBerkeley) titled "Path homologies of deep feedforward networks" was accepted to ICMLA 2019. Here we produce some fundamental calculations about the Betti numbers of fully-connected, feedforward neural networks according to different directed homology theories. Arxiv link: https://arxiv.org/pdf/1910.07617.pdf
+- A new paper written with Thomas Gebhart (UMN), Steve Huntsman (BAE Systems), and Matvey Yutin (UCBerkeley) titled "Path homologies of deep feedforward networks" was accepted to ICMLA 2019. Here we produce some fundamental calculations about the Betti numbers of fully-connected, feedforward neural networks according to different directed homology theories. Arxiv link: <https://arxiv.org/pdf/1910.07617.pdf>
 
 **Past**: 
 
