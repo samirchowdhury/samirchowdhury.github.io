@@ -5,3 +5,6 @@ gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-gist"
 gem "octopress"
+gem "kramdown", ">= 2.3.0"
+
+
