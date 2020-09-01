@@ -10,3 +10,5 @@ Prior to OSU, I completed my undergraduate degree at Tufts University (B.S. Engi
 
 My research is in applied topology and geometry, and in developing the foundations of such methods in neuroimaging.
 
+You can reach me via email at `samirc` at `stanford` dot `edu`
+
