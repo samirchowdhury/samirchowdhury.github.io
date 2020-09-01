@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Samir Chowdhury
   avatar: profile.png
-  bio: "Postdoc at Stanford University. Working in applied mathematics, specifically topology, geometry, and applications to neuroimaging for personalized psychiatry."
+  bio: "Postdoc at Stanford University. Applied mathematics for personalized psychiatry."
   email: samirc@stanford.edu
   # Do not include the @ symbol in your Twitter username
   twitter: samircwrites
