@@ -23,7 +23,6 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 With Tom Needham.
 0. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf). _Topology and its Applications._ \
 With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
-
 ### 2019
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
@@ -38,7 +37,6 @@ With Bowen Dai and Facundo Mémoli.
 With Facundo Mémoli.
 0. [Persistent path homology of directed networks](assets/2018-pph.pdf). _SODA._ \
 With Facundo Mémoli.
-
 ### 2016
 0. [Hierarchical representations of network data with optimal distortion bounds](assets/2016-clust-net.pdf). _IEEE Asilomar._ \
 With Facundo Mémoli and Zane Smith.
@@ -48,7 +46,6 @@ With Facundo Mémoli.
 With Facundo Mémoli and Zane Smith.
 0. [Distances between directed networks and applications](assets/2016-dn.pdf). _IEEE ICASSP._ \
 With Facundo Mémoli.
-
 ### 2015
 0. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
 With Facundo Mémoli.
