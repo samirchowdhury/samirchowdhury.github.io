@@ -18,9 +18,9 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 ## Papers
 
-0. [New families of stable simplicial filtration functors](assets/2019-filtration-functors.pdf).\
+0. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf).\
 With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
-0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2019-gwa.pdf).\
+0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf).\
 With Tom Needham.
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf).\
 With Facundo Mémoli.
