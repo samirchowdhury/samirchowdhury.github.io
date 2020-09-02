@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-<!-- excerpt: "Papers and preprints" -->
+excerpt: "Papers and preprints"
 ---
 
 
