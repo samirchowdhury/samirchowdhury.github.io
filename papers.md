@@ -38,16 +38,15 @@ With Facundo Mémoli.
 0. [Persistent path homology of directed networks](assets/2018-pph.pdf). _SODA._ \
 With Facundo Mémoli.
 ### 2016
-2. [Hierarchical representations of network data with optimal distortion bounds](assets/2016-clust-net.pdf). _IEEE Asilomar._ \
+0. [Hierarchical representations of network data with optimal distortion bounds](assets/2016-clust-net.pdf). _IEEE Asilomar._ \
 With Facundo Mémoli and Zane Smith.
-2. [Persistent homology of directed networks](assets/2016-dowker.pdf). _IEEE Asilomar._ \
+0. [Persistent homology of directed networks](assets/2016-dowker.pdf). _IEEE Asilomar._ \
 With Facundo Mémoli.
-2. [Improved error bounds for tree representations of metric spaces](assets/2016-clust-net-nips.pdf). _NeurIPS._ \
+0. [Improved error bounds for tree representations of metric spaces](assets/2016-clust-net-nips.pdf). _NeurIPS._ \
 With Facundo Mémoli and Zane Smith.
-2. [Distances between directed networks and applications](assets/2016-dn.pdf). _IEEE ICASSP._ \
+0. [Distances between directed networks and applications](assets/2016-dn.pdf). _IEEE ICASSP._ \
+With Facundo Mémoli.
+### 2015
+0. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
 With Facundo Mémoli.
 {: reversed="reversed"}
-
-### 2015
-1. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
-With Facundo Mémoli.
