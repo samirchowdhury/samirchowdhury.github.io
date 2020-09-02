@@ -19,10 +19,12 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 ## Papers
 
 ### 2020
+{:start="7"}
 0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf). _CVPR workshops (DiffCVML)._ \
 With Tom Needham.
 0. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf). _Topology and its Applications._ \
 With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
+{: reversed="reversed"}
 ### 2019
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
