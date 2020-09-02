@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 I am a postdoctoral scholar at Stanford University, working with Manish Saggar at the Brain Dynamics Lab. 
 
-Prior to Stanford, I completed my PhD in the Department of Mathematics at The Ohio State University, under the supervision of Facundo Mémoli. I completed my undergraduate degree at Tufts University (B.S. Engineering Science).
+Prior to Stanford, I completed my PhD in the Department of Mathematics at The Ohio State University in May 2019, under the supervision of Facundo Mémoli. I completed my undergraduate degree at Tufts University (B.S. Engineering Science).
 
 My research is in applied topology and geometry, and in developing the foundations of such methods in neuroimaging.
 
