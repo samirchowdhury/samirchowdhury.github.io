@@ -19,7 +19,6 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 ## Publications
 
 ### 2020
-{:start="12"}
 13. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf). _CVPR workshops (DiffCVML)._ \
 With Tom Needham.
 12. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf). _Topology and its Applications._ \
@@ -28,9 +27,9 @@ With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
 
 ### 2019
 {:start="10"}
-0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
+11. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
-0. [Path homologies of deep feedforward networks](assets/2019-phmlp.pdf). _IEEE ICMLA._ \
+10. [Path homologies of deep feedforward networks](assets/2019-phmlp.pdf). _IEEE ICMLA._ \
 With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
 {: reversed="reversed"}
 
@@ -47,18 +46,15 @@ With Facundo Mémoli.
 {: reversed="reversed"}
 
 ### 2016
-{:start="2"}
-0. [Hierarchical representations of network data with optimal distortion bounds](assets/2016-clust-net.pdf). _IEEE Asilomar._ \
+5. [Hierarchical representations of network data with optimal distortion bounds](assets/2016-clust-net.pdf). _IEEE Asilomar._ \
 With Facundo Mémoli and Zane Smith.
-0. [Persistent homology of directed networks](assets/2016-dowker.pdf). _IEEE Asilomar._ \
+4. [Persistent homology of directed networks](assets/2016-dowker.pdf). _IEEE Asilomar._ \
 With Facundo Mémoli.
-0. [Improved error bounds for tree representations of metric spaces](assets/2016-clust-net-nips.pdf). _NeurIPS._ \
+3. [Improved error bounds for tree representations of metric spaces](assets/2016-clust-net-nips.pdf). _NeurIPS._ \
 With Facundo Mémoli and Zane Smith.
-0. [Distances between directed networks and applications](assets/2016-dn.pdf). _IEEE ICASSP._ \
+2. [Distances between directed networks and applications](assets/2016-dn.pdf). _IEEE ICASSP._ \
 With Facundo Mémoli.
-{: reversed="reversed"}
 
 ### 2015
-0. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
+1. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
 With Facundo Mémoli.
-{: reversed="reversed"}
