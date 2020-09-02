@@ -18,6 +18,7 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 ## Papers
 
+- _(Coauthors listed in alphabetical order)_
 ### 2020
 0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf). _CVPR workshops (DiffCVML)._ \
 With Tom Needham.
