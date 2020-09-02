@@ -24,10 +24,10 @@ With Tom Needham.
 0. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf). _Topology and its Applications._ \
 With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
 ### 2019
-0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
-With Facundo Mémoli.
 0. [Path homologies of deep feedforward networks](assets/2019-phmlp.pdf). _IEEE ICMLA._ \
 With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
+0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
+With Facundo Mémoli.
 ### 2018
 0. [A functorial Dowker theorem and persistent homology of asymmetric networks](assets/2018-dowker.pdf). _Journal of Applied and Computational Topology._ \
 With Facundo Mémoli.
