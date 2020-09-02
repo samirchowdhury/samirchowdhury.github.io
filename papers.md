@@ -18,7 +18,7 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 ## Papers
 
- ### 2020
+### 2020
 0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf). _CVPR workshops (DiffCVML)._ \
 With Tom Needham.
 0. [New families of stable simplicial filtration functors](assets/2020-filtration-functors.pdf). _Topology and its Applications._ \
