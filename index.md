@@ -11,9 +11,10 @@ My research is in applied topology and geometry, and in developing the foundatio
 
 You can reach me via email at `samirc` at `stanford` dot `edu`
 
-**Activity:**
+**Recent and upcoming activity:**
 
-- (September 2020) EPFL Applied Topology seminar
+- (December 2020) UC Davis MADDD Seminar
+- (September 2020) EPFL Applied Topology Seminar
 - (August 2020) ATMCS-AATRN talk is now available [here](https://youtu.be/qQRPbXRgm1Y)
 - (July 2020) My talk at the MBI workshop on [OT and TDA](https://mbi.osu.edu/events/optimal-transport-topological-data-analysis-and-applications-shape-and-machine-learning) is now [available](https://video.mbi.ohio-state.edu/video/player/?id=4971&title=A+Riemannian+framework+for+Gromov-Wasserstein+averaging+with+applications+to+neuroimaging)
 - (June 2020) Oral presentation at [DiffCVML](https://diffcvml.org/2020/program/), a CVPR workshop
