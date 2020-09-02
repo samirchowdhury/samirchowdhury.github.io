@@ -15,3 +15,12 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
 0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2019-gwa.pdf).\
 With Tom Needham.
+0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf).\
+With Facundo Mémoli.
+0. [Path homologies of deep feedforward networks](assets/2019-phmlp.pdf).\
+With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
+0. [A functorial Dowker theorem and persistent homology of asymmetric networks](assets/2018-dowker.pdf).\
+With Facundo Mémoli.
+0. [The importance of forgetting: Limiting memory improves recovery of topological characteristics from neural data](assets/2018-memory-zz.pdf).\
+With Bowen Dai and Facundo Mémoli.
+{: reversed="reversed"}
