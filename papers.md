@@ -7,12 +7,12 @@ excerpt: "Papers/preprints"
 
 ## Preprints
 
-- [Path homology and temporal networks](https://arxiv.org/pdf/2008.11885.pdf).\
+- (2020) [Path homology and temporal networks](https://arxiv.org/pdf/2008.11885.pdf).\
 With Steve Huntsman and Matvey Yutin.
-- [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/pdf/2006.04163.pdf).\
+- (2020) [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/pdf/2006.04163.pdf).\
 With Tom Needham. 
-- [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
-- [Vietoris-Rips Complexes of Regular Polygons](https://arxiv.org/pdf/1807.10971).\
+- (2019) [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
+- (2018) [Vietoris-Rips Complexes of Regular Polygons](https://arxiv.org/pdf/1807.10971).\
 With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 
