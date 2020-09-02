@@ -16,7 +16,7 @@ With Tom Needham.
 With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 
-## Papers
+## Publications
 
 ### 2020
 {:start="12"}
