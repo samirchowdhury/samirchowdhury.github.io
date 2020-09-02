@@ -1,3 +1,10 @@
+---
+layout: post
+title: Papers
+excerpt: "Papers and preprints"
+---
+
+
 ## Preprints
 
 0. [Path homology and temporal networks](https://arxiv.org/pdf/2008.11885.pdf).\
