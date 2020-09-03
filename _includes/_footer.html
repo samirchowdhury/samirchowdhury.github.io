@@ -19,7 +19,6 @@
 <br /></span>
 {% else  %}
 <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://ncsu-libraries.github.io/jekyll-academic/" rel="nofollow">Jekyll Academic</a> theme. 
-    {% if author.google.scholar %}<a href="https://scholar.google.com/citations?user={{ author.google.scholar}}" class="author-social" target="_blank"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>{% endif %}
-    {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
+    {% if author.google.scholar %}<a href="https://scholar.google.com/citations?user={{ author.google.scholar}}" class="author-social" target="_blank"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>{% endif %}{% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
 <br /></span>
 {% endif %}
