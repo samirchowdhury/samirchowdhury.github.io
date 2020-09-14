@@ -14,8 +14,32 @@ You can reach me via email at `samirc` at `stanford` dot `edu`
 **Recent and upcoming activity:**
 
 - (December 2020) UC Davis MADDD Seminar
+- (September 2020) Fields Institute talk (Symposium on Machine Learning and Dynamical Systems) 
 - (September 2020) EPFL Applied Topology Seminar
 - (August 2020) [ATMCS-AATRN](https://tgda.osu.edu/atmcs2020/atmcs-2020-talks-hosted-by-the-aatn/) talk is now available [here](https://youtu.be/qQRPbXRgm1Y)
 - (July 2020) My talk at the MBI workshop on [OT and TDA](https://mbi.osu.edu/events/optimal-transport-topological-data-analysis-and-applications-shape-and-machine-learning) is now [available](https://video.mbi.ohio-state.edu/video/player/?id=4971&title=A+Riemannian+framework+for+Gromov-Wasserstein+averaging+with+applications+to+neuroimaging)
 - (June 2020) Oral presentation at [DiffCVML](https://diffcvml.org/2020/program/), a CVPR workshop
- 
+   
+&nbsp; 
+&nbsp; 
+&nbsp; 
+  
+  
+
+
+
+**Past activity highlights:**
+
+- (June 2019) I was a coorganizer for [GTDAML2019](https://tgda.osu.edu/gtdaml2019/) (official title: First Midwest Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning)
+- (2018-2019) Katie Ritchey and I coorganized [TAGGS](https://sites.google.com/view/osu-taggs/home), a seminar for graduate students and postdocs in topology and geometry (both theory and applied)
+- (Summer 2017) I was a TA for the [Summer@ICERM 2017](https://icerm.brown.edu/summerug/2017/) REU on Topological Data Analysis
+<!-- - (Summer 2017) Elchanan Solomon and I coorganized a panel on _Applying to Math Graduate School_  -->
+- (January 2017) I was a TA at the [3rd School on Topological Data Analysis](https://atd.cimat.mx/es/tercera-escuela-atd) in Mexico for a course on network data analysis
+
+
+<!-- 
+
+**Engineering education:**
+
+_I would like to get back to these activities eventually_
+- (2009-2013) I co-taught LEGO robotics and other engineering activities to fifth graders in the greater Boston area through [Tufts STOMP](https://ceeo.tufts.edu/outreach/stomp.htm) -->
