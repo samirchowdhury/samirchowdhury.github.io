@@ -13,6 +13,9 @@ Mathematical Biosciences Institute (MBI) workshop on optimal transport and topol
 DiffCVML workshop at CVPR
 
 `June 2020`
+Organization for Human Brain Mapping (poster)
+
+`June 2020`
 Georgia Topology Conference, University of Georgia (canceled due to COVID-19)
 
 `April 2020`
@@ -81,8 +84,14 @@ Symposium on Discrete Algorithms
 `June-August 2017`
 Summer@ICERM REU, ICERM, Brown University
 
+`February 2017`
+Computational and Systems Neuroscience (Cosyne) (poster)
+
 `January 2017`
 3rd School on Topological Data Analysis, Mexico City
+
+`December 2016`
+NeurIPS
 
 `November 2016`
 IEEE Asilomar Conference on Signals, Systems, and Computers

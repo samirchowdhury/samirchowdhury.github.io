@@ -19,9 +19,8 @@ You can reach me via email at `samirc` at `stanford` dot `edu`
 - (August 2020) [ATMCS-AATRN](https://tgda.osu.edu/atmcs2020/atmcs-2020-talks-hosted-by-the-aatn/) talk is now available [here](https://youtu.be/qQRPbXRgm1Y)
 - (July 2020) My talk at the MBI workshop on [OT and TDA](https://mbi.osu.edu/events/optimal-transport-topological-data-analysis-and-applications-shape-and-machine-learning) is now [available](https://video.mbi.ohio-state.edu/video/player/?id=4971&title=A+Riemannian+framework+for+Gromov-Wasserstein+averaging+with+applications+to+neuroimaging)
 - (June 2020) Oral presentation at [DiffCVML](https://diffcvml.org/2020/program/), a CVPR workshop
-   
-&nbsp; 
-&nbsp; 
+- (June 2020) Poster at OHBM 2020 (joint w/ Caleb Geniesse and Manish Saggar)
+
 &nbsp; 
   
   
