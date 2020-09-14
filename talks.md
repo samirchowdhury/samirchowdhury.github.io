@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-### Talks
+
 
 `August 2020`
 Algebraic Topology: Methods, Computation, and Science (ATMCS9) talks hosted by the Applied Algebraic Topology Research Network (AATRN)
