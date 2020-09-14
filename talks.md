@@ -78,6 +78,12 @@ Session on Metrics and Optimization, JMM
 `January 2018`
 Symposium on Discrete Algorithms
 
+`June-August 2017`
+Summer@ICERM REU, ICERM, Brown University
+
+`January 2017`
+3rd School on Topological Data Analysis, Mexico City
+
 `November 2016`
 IEEE Asilomar Conference on Signals, Systems, and Computers
 
