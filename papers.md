@@ -7,8 +7,7 @@ excerpt: "Papers/preprints"
 
 ## Preprints
 
-- (2020) [Path homology and temporal networks](https://arxiv.org/pdf/2008.11885.pdf).\
-With Steve Huntsman and Matvey Yutin.
+
 - (2020) [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/pdf/2006.04163.pdf).\
 With Tom Needham. 
 - (2019) [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
