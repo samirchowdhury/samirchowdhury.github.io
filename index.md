@@ -13,6 +13,7 @@ You can reach me via email at `samirc` at `stanford` dot `edu`
 
 **Recent and upcoming activity:**
 
+- (August 2021) Joint Statistical Meetings - talk at the session on Geometric and Topological Information in Data Analysis
 - (December 2020) UC Davis MADDD Seminar
 - (September 2020) EPFL Applied Topology Seminar
 - (August 2020) [ATMCS-AATRN](https://tgda.osu.edu/atmcs2020/atmcs-2020-talks-hosted-by-the-aatn/) talk is now available [here](https://youtu.be/qQRPbXRgm1Y)
