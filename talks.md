@@ -2,6 +2,9 @@
 layout: resume
 ---
 
+`December 2020`
+UC Davis MADDD Seminar
+
 `September 2020`
 Applied Topology Seminar, EPFL
 
