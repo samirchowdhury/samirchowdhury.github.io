@@ -15,11 +15,9 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 ## Publications
 
 ### 2021
-
 0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/abs/2006.04163).
 _AISTATS 2021._\
 With Tom Needham. 
-
 ### 2020
 0. [Path homology and temporal networks](assets/2020-phtemporal.pdf). _Complex Networks 2020._\
 With Steve Huntsman and Matvey Yutin.
@@ -33,7 +31,6 @@ With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
 0. [Metric and Topological Approaches to Network Data Analysis](assets/2019-thesis.pdf). _PhD Thesis._ 
-
 ### 2018
 0. [A functorial Dowker theorem and persistent homology of asymmetric networks](assets/2018-dowker.pdf). _Journal of Applied and Computational Topology._ \
 With Facundo Mémoli.
