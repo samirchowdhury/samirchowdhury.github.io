@@ -7,9 +7,6 @@ excerpt: "Papers/preprints"
 
 ## Preprints
 
-
-- (2020) [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/pdf/2006.04163.pdf).\
-With Tom Needham. 
 - (2019) [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
 - (2018) [Vietoris-Rips Complexes of Regular Polygons](https://arxiv.org/pdf/1807.10971).\
 With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
@@ -17,8 +14,14 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 
 ## Publications
 
+### 2021
+
+0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/abs/2006.04163).
+_AISTATS 2021._\
+With Tom Needham. 
+
 ### 2020
-0. [Path homology and temporal networks](https://arxiv.org/pdf/2008.11885.pdf). _Accepted to Complex Networks 2020._\
+0. [Path homology and temporal networks](assets/2020-phtemporal.pdf). _Complex Networks 2020._\
 With Steve Huntsman and Matvey Yutin.
 0. [Gromov-Wasserstein Averaging in a Riemannian Framework](assets/2020-gwa.pdf). _CVPR workshops (DiffCVML)._ \
 With Tom Needham.
@@ -29,6 +32,8 @@ With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
 With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
+0. [Metric and Topological Approaches to Network Data Analysis](assets/2019-thesis.pdf). _PhD Thesis._ \
+
 ### 2018
 0. [A functorial Dowker theorem and persistent homology of asymmetric networks](assets/2018-dowker.pdf). _Journal of Applied and Computational Topology._ \
 With Facundo Mémoli.
