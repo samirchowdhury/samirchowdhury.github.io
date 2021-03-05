@@ -32,7 +32,7 @@ With Nate Clause, Facundo Mémoli, Jose Ángel Sánchez, and Zoe Wellner.
 With Tom Gebhart, Steve Huntsman, and Matvey Yutin.
 0. [The Gromov-Wasserstein distance between networks and stable network invariants](assets/2019-gwnets.pdf). _Information and Inference._ \
 With Facundo Mémoli.
-0. [Metric and Topological Approaches to Network Data Analysis](assets/2019-thesis.pdf). _PhD Thesis._ \
+0. [Metric and Topological Approaches to Network Data Analysis](assets/2019-thesis.pdf). _PhD Thesis._ 
 
 ### 2018
 0. [A functorial Dowker theorem and persistent homology of asymmetric networks](assets/2018-dowker.pdf). _Journal of Applied and Computational Topology._ \
