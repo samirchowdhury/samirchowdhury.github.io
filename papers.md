@@ -5,13 +5,6 @@ excerpt: "Papers/preprints"
 ---
 
 
-## Preprints
-
-- (2019) [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
-- (2018) [Vietoris-Rips Complexes of Regular Polygons](https://arxiv.org/pdf/1807.10971).\
-With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
-
-
 ## Publications
 
 ### 2021
@@ -53,3 +46,11 @@ With Facundo Mémoli.
 0. [Metric structures on networks and applications](assets/2015-ms.pdf). _IEEE Allerton._ \
 With Facundo Mémoli.
 {: reversed="reversed"}
+
+
+## Preprints
+- (2021) [Quantized Gromov-Wasserstein](https://arxiv.org/abs/2104.02013).\
+With David Miller and Tom Needham.
+- (2019) [Geodesics in persistence diagram space](https://arxiv.org/pdf/1905.10820).
+- (2018) [Vietoris-Rips Complexes of Regular Polygons](https://arxiv.org/pdf/1807.10971).\
+With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
