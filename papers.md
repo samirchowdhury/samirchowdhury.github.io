@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 
+title: Papers
 excerpt: "Papers/preprints"
 ---
 
-
+## Preprints
 - (2021) [Quantized Gromov-Wasserstein](https://arxiv.org/abs/2104.02013).\
 With David Miller and Tom Needham.
 
