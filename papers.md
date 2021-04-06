@@ -15,8 +15,8 @@ With Henry Adams, Adam Jaffe, and Bonginkosi Sibanda.
 ## Publications
 
 ### 2021
-0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](https://arxiv.org/abs/2006.04163).
-_AISTATS 2021._\
+0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](http://proceedings.mlr.press/v130/chowdhury21a/chowdhury21a.pdf).
+_AISTATS._\
 With Tom Needham. 
 ### 2020
 0. [Path homology and temporal networks](assets/2020-phtemporal.pdf). _Complex Networks 2020._\
