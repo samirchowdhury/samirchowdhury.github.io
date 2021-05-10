@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers
-excerpt: "Papers/preprints"
+title: Research
+excerpt: "Research/preprints"
 ---
 
 ## Preprints
