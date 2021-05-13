@@ -12,7 +12,7 @@ With David Miller and Tom Needham.
 
 ### 2021
 0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](http://proceedings.mlr.press/v130/chowdhury21a/chowdhury21a.pdf).
-_AISTATS._\
+_AISTATS._ [Supplementary material](assets/2020-gwh-supp.pdf)\
 With Tom Needham. 
 ### 2020
 0. [Path homology and temporal networks](assets/2020-phtemporal.pdf). _Complex Networks 2020._\
