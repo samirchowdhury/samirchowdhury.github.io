@@ -2,6 +2,12 @@
 layout: resume
 ---
 
+`August 2021`
+Session on Geometric and Topological Information in Data Analysis, Joint Statistical Meetings
+
+`June 2021`
+Algebraic Topology and its Applications Seminar, HSE University
+
 `December 2020`
 UC Davis MADDD Seminar
 
