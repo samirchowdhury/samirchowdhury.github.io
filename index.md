@@ -15,7 +15,7 @@ You can reach me via email at `samirc` at `stanford` dot `edu`
 
 
 
-
+- (September 2021) Talk at the Florida State University Machine Learning Seminar
 - (August 2021) Joint Statistical Meetings - talk at the session on Geometric and Topological Information in Data Analysis
 - (August 2021) I served as a TA for the MIT [Summer Geometry Institute](https://sgi.mit.edu/)
 - (July 2021) Co-organized the Second Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning [(GTDAML21)](https://gtdaml.wixsite.com/2021)
