@@ -13,12 +13,14 @@ You can reach me via email at `samirc` at `stanford` dot `edu`
 
 **Recent and upcoming activity:**
 
-- **News:** Co-organizing the Second Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning [(GTDAML21)](https://gtdaml.wixsite.com/2021). Graduate students, please submit an abstract for a talk or poster!
 
 
+- (September 2021) Talk at the Florida State University Machine Learning Seminar
 - (August 2021) Joint Statistical Meetings - talk at the session on Geometric and Topological Information in Data Analysis
+- (August 2021) I served as a TA for the MIT [Summer Geometry Institute](https://sgi.mit.edu/)
+- (July 2021) Co-organized the Second Graduate Student Conference: Geometry and Topology meet Data Analysis and Machine Learning [(GTDAML21)](https://gtdaml.wixsite.com/2021)
 - (June 2021) HSE University ATA Seminar
-- (April 2021) **New preprint** [Quantized Gromov-Wasserstein](https://arxiv.org/abs/2104.02013). With David Miller and Tom Needham. _Accepted to ECML 2021!_
+- (April 2021) **New preprint** [Quantized Gromov-Wasserstein](https://arxiv.org/abs/2104.02013). With David Miller and Tom Needham. _Accepted to ECML 2021._
 - (December 2020) UC Davis MADDD Seminar
 - (September 2020) EPFL Applied Topology Seminar
 - (August 2020) [ATMCS-AATRN](https://tgda.osu.edu/atmcs2020/atmcs-2020-talks-hosted-by-the-aatn/) talk is now available [here](https://youtu.be/qQRPbXRgm1Y)
