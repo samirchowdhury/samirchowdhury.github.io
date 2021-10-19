@@ -10,7 +10,7 @@ excerpt: "Research/preprints"
 ## Publications
 
 ### 2021
-0. [Quantized Gromov-Wasserstein](https://arxiv.org/abs/2104.02013). _ECML_.\
+0. [Quantized Gromov-Wasserstein](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_949.pdf). _ECML_.\
 With David Miller and Tom Needham.
 0. [Generalized Spectral Clustering via Gromov-Wasserstein Learning](http://proceedings.mlr.press/v130/chowdhury21a/chowdhury21a.pdf).
 _AISTATS._ [Supplementary material](assets/2020-gwh-supp.pdf).\
