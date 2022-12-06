@@ -6,9 +6,21 @@ excerpt: "Research/preprints"
 
 <!-- ## Preprints -->
 
+## Preprints
+0. [Hypergraph Co-Optimal Transport: Metric and Categorical Properties](https://arxiv.org/pdf/2112.03904.pdf). arXiv.\
+With Tom Needham, Ethan Semrad, Bei Wang, and Youjia Zhou.
 
 ## Publications
 
+### 2022
+0. [Temporal Mapper: transition networks in simulated and real neural dynamics](https://www.biorxiv.org/content/biorxiv/early/2022/08/01/2022.07.28.501877.full.pdf). Accepted to Network Neuroscience.\
+With Mengsen Zhang and Manish Saggar.
+0. [Distances and isomorphism between networks: stability and convergence of network invariants](https://link.springer.com/article/10.1007/s41468-022-00105-6). Journal of Applied and Computational Topology.\
+With Facundo Mémoli.
+0. [NeuMapper: A scalable computational framework for multiscale exploration of the brain’s dynamical organization](https://direct.mit.edu/netn/article/6/2/467/109065). Network Neuroscience.\
+With Caleb Geniesse and Manish Saggar.
+0. [Path homologies of motifs and temporal network representations](https://link.springer.com/article/10.1007/s41109-021-00441-z). Applied Network Science.\
+With Steve Huntsman and Matvey Yutin.
 ### 2021
 0. [Quantized Gromov-Wasserstein](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_949.pdf). _ECML_.\
 With David Miller and Tom Needham.
