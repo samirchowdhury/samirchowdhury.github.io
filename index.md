@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a senior computer vision engineer at Bear Flag Robotics. Here I have the privilege of working with an incredible team of roboticists and field operations specialists to build autonomous tractors that help solve the labor shortage problem in farming. 
+I am a staff computer vision engineer at Bear Flag Robotics. Here I have the privilege of working with an incredible team of roboticists and field operations specialists to build autonomous tractors that help solve the labor shortage problem in farming. 
 
 Prior to BFR, I was a machine learning engineer at Revelio Labs. Going further back, I was a postdoctoral scholar at Stanford University from 2019-2021, working with Manish Saggar at the Brain Dynamics Lab. 
 
