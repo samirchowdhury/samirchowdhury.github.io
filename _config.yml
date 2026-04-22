@@ -8,10 +8,9 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Samir Chowdhury
   avatar: profile.png
-  bio: "Senior computer vision engineer at Bear Flag Robotics"
+  bio: "Staff Computer Vision Engineer at Bear Flag Robotics"
   email: #samirc@stanford.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: samircwrites
+  twitter: #
   linkedin: #username
   github: samirchowdhury
   orcid: # ID Number (ex. 0000-0000-0000-0000)
